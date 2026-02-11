@@ -1,7 +1,5 @@
-Here’s the full README content you can paste into a Docx file (or into README.md in your repo).
-
-Selenium TestNG Automation Framework
-A Java‑based automation framework using Selenium 4, TestNG, and Maven, designed for web UI testing with data‑driven capabilities via Config.properties.
+**Selenium TestNG Automation Framework
+A Java‑based automation framework using Selenium 4, TestNG, and Maven, designed for web UI testing with data‑driven capabilities via Config.properties.**
 
 📦 Features
 Selenium 4 + Java + TestNG + Maven structure.
